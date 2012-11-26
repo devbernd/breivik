@@ -1,9 +1,9 @@
-Breivik the game official repo.
+## Breivik the game official repo.
 
-Check out our wiki: https://github.com/devbernd/breivik/wiki
-The project is in the early planning stage.
+
+The project is in the early planning stage.  
 Everyone who wants to participate should check out our IRC Channel
-and the wiki pages.
+and the [wiki pages](https://github.com/devbernd/breivik/wiki).
 
-Contact info (IRC-Channel, Webchat, Email): https://github.com/devbernd/breivik/wiki/Contact
+[Contact info (IRC-Channel, Webchat, Email)](https://github.com/devbernd/breivik/wiki/Contact)
 
